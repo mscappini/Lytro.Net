@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lytro.Windows", "Lytro.Windows\Lytro.Windows.csproj", "{115BE4F3-2DDE-45C3-855E-B290CFE1B11A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lytro.Splitter", "Lytro.Splitter\Lytro.Splitter.csproj", "{4AC052EA-F4D0-4E46-83D7-F6765D48025A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lytro.Net", "Lytro.Net\Lytro.Net.csproj", "{5FE7B060-44D3-4A65-88C3-BEC1A26A36E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{115BE4F3-2DDE-45C3-855E-B290CFE1B11A}.Debug|x86.ActiveCfg = Debug|x86
+		{115BE4F3-2DDE-45C3-855E-B290CFE1B11A}.Debug|x86.Build.0 = Debug|x86
+		{115BE4F3-2DDE-45C3-855E-B290CFE1B11A}.Release|x86.ActiveCfg = Release|x86
+		{115BE4F3-2DDE-45C3-855E-B290CFE1B11A}.Release|x86.Build.0 = Release|x86
+		{4AC052EA-F4D0-4E46-83D7-F6765D48025A}.Debug|x86.ActiveCfg = Debug|x86
+		{4AC052EA-F4D0-4E46-83D7-F6765D48025A}.Debug|x86.Build.0 = Debug|x86
+		{4AC052EA-F4D0-4E46-83D7-F6765D48025A}.Release|x86.ActiveCfg = Release|x86
+		{4AC052EA-F4D0-4E46-83D7-F6765D48025A}.Release|x86.Build.0 = Release|x86
+		{5FE7B060-44D3-4A65-88C3-BEC1A26A36E2}.Debug|x86.ActiveCfg = Debug|x86
+		{5FE7B060-44D3-4A65-88C3-BEC1A26A36E2}.Debug|x86.Build.0 = Debug|x86
+		{5FE7B060-44D3-4A65-88C3-BEC1A26A36E2}.Release|x86.ActiveCfg = Release|x86
+		{5FE7B060-44D3-4A65-88C3-BEC1A26A36E2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
