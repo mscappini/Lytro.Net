@@ -1,5 +1,7 @@
 This was a project I developed to create a sensible Windows UI for opening native Lytro files (.LFP) and extracting the JPEGs located within.
 
-The majority of information I used to code this library and related app was obtained from Nirav Patel (https://github.com/nrpatel) and his genius observations of the native format (http://eclecti.cc/computervision/reverse-engineering-the-lytro-lfp-file-format).
+There is also a LytroSplitter executable that functions as a command line tool (drag and drop one or more files to it).
+
+The majority of information I used to code this library and related app was obtained from Nirav Patel (https://github.com/nrpatel) and his genius reverse-engineering of the native LFP format (http://eclecti.cc/computervision/reverse-engineering-the-lytro-lfp-file-format).
 
 Nirav's platform independent tools can be found here: https://github.com/nrpatel/lfptools/
